@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "name": "Zaheer Khan",
+    "specialty": "Bangladeshi cuisine",
+    "awards": [
+      "Best Chef in Bangladesh"
+    ],
+    "photoUrl": "https://example.com/zaheer-khan.jpg",
+    "dishes": [
+      "Beef Tehari",
+      "Haleem",
+      "Dhakaiya Chicken Roast",
+      "Biriyani",
+      "Chotpoti",
+      "Kacchi Biriyani",
+      "Beef Bhuna",
+      "Mutton Kala Bhuna",
+      "Fish Kalia",
+      "Shorshe Ilish"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Shawkat Osman",
+    "specialty": "French cuisine",
+    "awards": [
+      "Best Chef in Bangladesh"
+    ],
+    "photoUrl": "https://example.com/shawkat-osman.jpg",
+    "dishes": [
+      "Beef Bhuna",
+      "Mutton Kala Bhuna",
+      "Fish Kalia",
+      "Shorshe Ilish"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tony Khan",
+    "specialty": "Italian cuisine",
+    "awards": [
+      "Best Chef in Bangladesh"
+    ],
+    "photoUrl": "https://example.com/tony-khan.jpg",
+    "dishes": [
+      "Beef Tehari",
+      "Haleem",
+      "Dhakaiya Chicken Roast",
+      "Biriyani",
+      "Chotpoti"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Shawkat Ali",
+    "specialty": "Thai cuisine",
+    "awards": [
+      "Best Chef in Bangladesh"
+    ],
+    "photoUrl": "https://example.com/shawkat-ali.jpg",
+    "dishes": [
+      "Prawn Malai Curry",
+      "Daal",
+      "Bhaji",
+      "Bhuna Khichuri",
+      "Dhaka-style Chicken Roast",
+      "Sorshe Ilish",
+      "Chitol Macher Muitha",
+      "Chingri Malaikari",
+      "Doi Begun",
+      "Mutton Tehari"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mamun Chowdhury",
+    "specialty": "Japanese cuisine",
+    "awards": [
+      "Best Chef in Bangladesh"
+    ],
+    "photoUrl": "https://example.com/mamun-chowdhury.jpg",
+    "dishes": [
+      "Bhuna Khichuri",
+      "Dhaka-style Chicken Roast",
+      "Sorshe Ilish",
+      "Chitol Macher Muitha",
+      "Chingri Malaikari"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sabina Begum",
+    "specialty": "Bangladeshi cuisine",
+    "awards": [
+      "Best Female Chef in Bangladesh",
+      "Best Chef for Traditional Cuisine"
+    ],
+    "photoUrl": "https://example.com/sabina-begum.jpg",
+    "dishes": [
+      "Bhapa Pitha",
+      "Patishapta",
+      "Chitoi Pitha",
+      "Pulao",
+      "Rezala",
+      "Korma",
+      "Shami Kebab",
+      "Mutton Rezala",
+      "Chicken Curry",
+      "Lau Shukto"
+    ]
+  }
+]
