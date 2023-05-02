@@ -24,12 +24,6 @@
           "1 inch ginger, grated",
           "2-3 green chilies, slit",
           "1 tsp cumin seeds",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1/2 tsp cinnamon powder",
-          "4-5 cardamom pods",
-          "2-3 bay leaves",
           "3 tbsp ghee or oil",
           "Salt, to taste"
         ],
@@ -56,12 +50,6 @@
           "4-5 cloves garlic, minced",
           "1 inch ginger, grated",
           "2-3 green chilies, chopped",
-          "1 tsp cumin powder",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1 tsp garam masala",
-          "2-3 bay leaves",
           "3-4 tbsp oil or ghee",
           "Salt, to taste"
         ],
@@ -86,7 +74,6 @@
           "2-3 green chilies",
           "1/2 tsp turmeric powder",
           "1/2 tsp red chili powder",
-          "1/2 tsp cumin powder",
           "1/2 tsp coriander powder",
           "4-5 tbsp mustard oil",
           "Salt, to taste"
@@ -110,12 +97,6 @@
           "1 inch ginger, grated",
           "2-3 green chilies, slit",
           "2 tomatoes, chopped",
-          "1 tsp cumin seeds",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1 tsp garam masala",
-          "2-3 bay leaves",
           "3-4 tbsp oil or ghee",
           "Salt, to taste"
         ],
@@ -146,6 +127,57 @@
     "photoUrl": "https://1.bp.blogspot.com/-aIsd0ndB07E/U0tS5zk17kI/AAAAAAAAVkw/uHcDx23F5RI/s1600/021.JPG",
     "dishes": [
       {
+        "name": "Mutton Curry",
+        "dishImg": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Mutton-Curry-500x500.jpg",
+        "description": "Mutton Curry is a classic Indian and South Asian dish made with tender mutton meat cooked in a flavorful curry sauce.",
+        "ingredients": [
+          "1 lb. mutton, cut into pieces",
+          "2 onions, chopped",
+          "4-5 cloves garlic, minced",
+          "1 inch ginger, grated",
+          "2-3 green chilies, slit",
+          "2 tomatoes, chopped",
+          "3-4 tbsp oil or ghee",
+          "Salt, to taste"
+        ],
+        "instructions": [
+          "In a pressure cooker, heat oil or ghee and fry chopped onions until they turn golden brown.",
+          "Add ginger, garlic, and green chilies. Fry for 2-3 minutes.",
+          "Add mutton pieces and fry until browned on all sides.",
+          "Add cumin seeds, coriander powder, turmeric powder, red chili powder, garam masala, bay leaves, and salt. Fry for 2-3 minutes.",
+          "Add chopped tomatoes and cook until they turn soft and mushy.",
+          "Add 2 cups of water and pressure cook for 15-20 minutes or until the mutton is cooked through.",
+          "Remove from heat and let the pressure release naturally.",
+          "Serve hot with steamed rice or Indian bread."
+        ]
+      },
+      
+      {
+        "name": "Dhakaiya Chicken Roast",
+        "dishImg": "https://giftall.s3.amazonaws.com/uploads/images/product/product_1583638430.jpg",
+        "description": "Dhakaiya Chicken Roast is a classic Bangladeshi dish made with marinated chicken roasted in an oven or grill.",
+        "ingredients": [
+          "1 whole chicken, cleaned and washed",
+          "1/2 cup yogurt",
+          "2 onions, chopped",
+          "4-5 cloves garlic, minced",
+          "1 inch ginger, grated",
+          "2-3 green chilies, chopped",
+          "3-4 tbsp oil or ghee",
+          "Salt, to taste"
+        ],
+        "instructions": [
+          "Marinate the chicken with yogurt, salt, and all the spices for at least 2-3 hours.",
+          "Preheat the oven to 375°F (190°C).",
+          "In a pan, heat oil or ghee and fry chopped onions until they turn translucent.",
+          "Add ginger, garlic, and green chilies. Fry for 2-3 minutes.",
+          "Add marinated chicken and fry until browned on all sides.",
+          "Transfer the chicken to a baking tray and roast in the oven for 45-50 minutes or until fully cooked.",
+          "Remove from the oven and let it cool for 5-10 minutes before serving.",
+          "Serve hot with naan or rice."
+        ]
+      }, 
+      {
         "name": "Beef Tehari",
         "dishImg": "https://www.deshcatering.com/wp-content/uploads/2020/06/beef-tehari-desh-catering-service-provider-company-dhaka.jpeg",
         "description": "Beef Tehari is a flavorful rice dish popular in Bangladesh and some regions of India. It is made with aromatic spices, tender beef, and fragrant Basmati rice.",
@@ -157,12 +189,6 @@
           "1 inch ginger, grated",
           "2-3 green chilies, slit",
           "1 tsp cumin seeds",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1/2 tsp cinnamon powder",
-          "4-5 cardamom pods",
-          "2-3 bay leaves",
           "3 tbsp ghee or oil",
           "Salt, to taste"
         ],
@@ -179,36 +205,6 @@
         ]
       },
       {
-        "name": "Dhakaiya Chicken Roast",
-        "dishImg": "https://giftall.s3.amazonaws.com/uploads/images/product/product_1583638430.jpg",
-        "description": "Dhakaiya Chicken Roast is a classic Bangladeshi dish made with marinated chicken roasted in an oven or grill.",
-        "ingredients": [
-          "1 whole chicken, cleaned and washed",
-          "1/2 cup yogurt",
-          "2 onions, chopped",
-          "4-5 cloves garlic, minced",
-          "1 inch ginger, grated",
-          "2-3 green chilies, chopped",
-          "1 tsp cumin powder",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1 tsp garam masala",
-          "2-3 bay leaves",
-          "3-4 tbsp oil or ghee",
-          "Salt, to taste"
-        ],
-        "instructions": [
-          "Marinate the chicken with yogurt, salt, and all the spices for at least 2-3 hours.",
-          "Preheat the oven to 375°F (190°C).",
-          "In a pan, heat oil or ghee and fry chopped onions until they turn translucent.",
-          "Add ginger, garlic, and green chilies. Fry for 2-3 minutes.",
-          "Add marinated chicken and fry until browned on all sides.",
-          "Transfer the chicken to a baking tray and roast in the oven for 45-50 minutes or until fully cooked.",
-          "Remove from the oven and let it cool for 5-10 minutes before serving.",
-          "Serve hot with naan or rice."
-        ]
-      }, {
         "name": "Shorshe Ilish",
         "dishImg": "https://pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-7.jpg",
         "description": "Shorshe Ilish is a popular Bengali dish made with Hilsa fish in a mustard gravy. It is a delicacy in Bangladesh and some regions of India.",
@@ -219,7 +215,6 @@
           "2-3 green chilies",
           "1/2 tsp turmeric powder",
           "1/2 tsp red chili powder",
-          "1/2 tsp cumin powder",
           "1/2 tsp coriander powder",
           "4-5 tbsp mustard oil",
           "Salt, to taste"
@@ -231,38 +226,8 @@
           "Heat mustard oil in a pan and fry the marinated fish steaks until golden brown on both sides.",
           "Serve hot with steamed rice."
         ]
-      },
-      {
-        "name": "Mutton Curry",
-        "dishImg": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Mutton-Curry-500x500.jpg",
-        "description": "Mutton Curry is a classic Indian and South Asian dish made with tender mutton meat cooked in a flavorful curry sauce.",
-        "ingredients": [
-          "1 lb. mutton, cut into pieces",
-          "2 onions, chopped",
-          "4-5 cloves garlic, minced",
-          "1 inch ginger, grated",
-          "2-3 green chilies, slit",
-          "2 tomatoes, chopped",
-          "1 tsp cumin seeds",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1 tsp garam masala",
-          "2-3 bay leaves",
-          "3-4 tbsp oil or ghee",
-          "Salt, to taste"
-        ],
-        "instructions": [
-          "In a pressure cooker, heat oil or ghee and fry chopped onions until they turn golden brown.",
-          "Add ginger, garlic, and green chilies. Fry for 2-3 minutes.",
-          "Add mutton pieces and fry until browned on all sides.",
-          "Add cumin seeds, coriander powder, turmeric powder, red chili powder, garam masala, bay leaves, and salt. Fry for 2-3 minutes.",
-          "Add chopped tomatoes and cook until they turn soft and mushy.",
-          "Add 2 cups of water and pressure cook for 15-20 minutes or until the mutton is cooked through.",
-          "Remove from heat and let the pressure release naturally.",
-          "Serve hot with steamed rice or Indian bread."
-        ]
       }
+     
     ]
   },
   {
@@ -279,6 +244,31 @@
     "photoUrl": "https://chefclubdhakahome.files.wordpress.com/2019/05/tony7755109801519956930.jpg?w=580",
     "dishes": [
       {
+        "name": "Dhakaiya Chicken Roast",
+        "dishImg": "https://giftall.s3.amazonaws.com/uploads/images/product/product_1583638430.jpg",
+        "description": "Dhakaiya Chicken Roast is a classic Bangladeshi dish made with marinated chicken roasted in an oven or grill.",
+        "ingredients": [
+          "1 whole chicken, cleaned and washed",
+          "1/2 cup yogurt",
+          "2 onions, chopped",
+          "4-5 cloves garlic, minced",
+          "1 inch ginger, grated",
+          "2-3 green chilies, chopped",
+          "3-4 tbsp oil or ghee",
+          "Salt, to taste"
+        ],
+        "instructions": [
+          "Marinate the chicken with yogurt, salt, and all the spices for at least 2-3 hours.",
+          "Preheat the oven to 375°F (190°C).",
+          "In a pan, heat oil or ghee and fry chopped onions until they turn translucent.",
+          "Add ginger, garlic, and green chilies. Fry for 2-3 minutes.",
+          "Add marinated chicken and fry until browned on all sides.",
+          "Transfer the chicken to a baking tray and roast in the oven for 45-50 minutes or until fully cooked.",
+          "Remove from the oven and let it cool for 5-10 minutes before serving.",
+          "Serve hot with naan or rice."
+        ]
+      },
+      {
         "name": "Beef Tehari",
         "dishImg": "https://www.deshcatering.com/wp-content/uploads/2020/06/beef-tehari-desh-catering-service-provider-company-dhaka.jpeg",
         "description": "Beef Tehari is a flavorful rice dish popular in Bangladesh and some regions of India. It is made with aromatic spices, tender beef, and fragrant Basmati rice.",
@@ -290,12 +280,6 @@
           "1 inch ginger, grated",
           "2-3 green chilies, slit",
           "1 tsp cumin seeds",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1/2 tsp cinnamon powder",
-          "4-5 cardamom pods",
-          "2-3 bay leaves",
           "3 tbsp ghee or oil",
           "Salt, to taste"
         ],
@@ -311,37 +295,7 @@
           "Serve hot with raita and salad."
         ]
       },
-      {
-        "name": "Dhakaiya Chicken Roast",
-        "dishImg": "https://giftall.s3.amazonaws.com/uploads/images/product/product_1583638430.jpg",
-        "description": "Dhakaiya Chicken Roast is a classic Bangladeshi dish made with marinated chicken roasted in an oven or grill.",
-        "ingredients": [
-          "1 whole chicken, cleaned and washed",
-          "1/2 cup yogurt",
-          "2 onions, chopped",
-          "4-5 cloves garlic, minced",
-          "1 inch ginger, grated",
-          "2-3 green chilies, chopped",
-          "1 tsp cumin powder",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1 tsp garam masala",
-          "2-3 bay leaves",
-          "3-4 tbsp oil or ghee",
-          "Salt, to taste"
-        ],
-        "instructions": [
-          "Marinate the chicken with yogurt, salt, and all the spices for at least 2-3 hours.",
-          "Preheat the oven to 375°F (190°C).",
-          "In a pan, heat oil or ghee and fry chopped onions until they turn translucent.",
-          "Add ginger, garlic, and green chilies. Fry for 2-3 minutes.",
-          "Add marinated chicken and fry until browned on all sides.",
-          "Transfer the chicken to a baking tray and roast in the oven for 45-50 minutes or until fully cooked.",
-          "Remove from the oven and let it cool for 5-10 minutes before serving.",
-          "Serve hot with naan or rice."
-        ]
-      }, {
+       {
         "name": "Shorshe Ilish",
         "dishImg": "https://pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-7.jpg",
         "description": "Shorshe Ilish is a popular Bengali dish made with Hilsa fish in a mustard gravy. It is a delicacy in Bangladesh and some regions of India.",
@@ -352,7 +306,6 @@
           "2-3 green chilies",
           "1/2 tsp turmeric powder",
           "1/2 tsp red chili powder",
-          "1/2 tsp cumin powder",
           "1/2 tsp coriander powder",
           "4-5 tbsp mustard oil",
           "Salt, to taste"
@@ -376,12 +329,6 @@
           "1 inch ginger, grated",
           "2-3 green chilies, slit",
           "2 tomatoes, chopped",
-          "1 tsp cumin seeds",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1 tsp garam masala",
-          "2-3 bay leaves",
           "3-4 tbsp oil or ghee",
           "Salt, to taste"
         ],
@@ -411,6 +358,29 @@
     "photoUrl": "https://media.licdn.com/dms/image/C5103AQH-Q47n0bmoFQ/profile-displayphoto-shrink_800_800/0/1577669296818?e=2147483647&v=beta&t=Guk6iVGjLcy2PKYV1TSCK-UcWAn2FgPE7a8b588TkcA",
     "dishes":  [
       {
+        "name": "Shorshe Ilish",
+        "dishImg": "https://pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-7.jpg",
+        "description": "Shorshe Ilish is a popular Bengali dish made with Hilsa fish in a mustard gravy. It is a delicacy in Bangladesh and some regions of India.",
+        "ingredients": [
+          "4 Hilsa fish steaks",
+          "2 tbsp yellow mustard seeds",
+          "2 tbsp black mustard seeds",
+          "2-3 green chilies",
+          "1/2 tsp turmeric powder",
+          "1/2 tsp red chili powder",
+          "1/2 tsp coriander powder",
+          "4-5 tbsp mustard oil",
+          "Salt, to taste"
+        ],
+        "instructions": [
+          "Grind yellow and black mustard seeds and green chilies into a fine paste.",
+          "Mix the mustard paste with turmeric powder, red chili powder, cumin powder, coriander powder, and salt.",
+          "Coat the Hilsa fish steaks with the mustard paste and marinate for at least 30 minutes.",
+          "Heat mustard oil in a pan and fry the marinated fish steaks until golden brown on both sides.",
+          "Serve hot with steamed rice."
+        ]
+      },
+      {
         "name": "Beef Tehari",
         "dishImg": "https://www.deshcatering.com/wp-content/uploads/2020/06/beef-tehari-desh-catering-service-provider-company-dhaka.jpeg",
         "description": "Beef Tehari is a flavorful rice dish popular in Bangladesh and some regions of India. It is made with aromatic spices, tender beef, and fragrant Basmati rice.",
@@ -422,12 +392,6 @@
           "1 inch ginger, grated",
           "2-3 green chilies, slit",
           "1 tsp cumin seeds",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1/2 tsp cinnamon powder",
-          "4-5 cardamom pods",
-          "2-3 bay leaves",
           "3 tbsp ghee or oil",
           "Salt, to taste"
         ],
@@ -454,12 +418,6 @@
           "4-5 cloves garlic, minced",
           "1 inch ginger, grated",
           "2-3 green chilies, chopped",
-          "1 tsp cumin powder",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1 tsp garam masala",
-          "2-3 bay leaves",
           "3-4 tbsp oil or ghee",
           "Salt, to taste"
         ],
@@ -473,30 +431,7 @@
           "Remove from the oven and let it cool for 5-10 minutes before serving.",
           "Serve hot with naan or rice."
         ]
-      }, {
-        "name": "Shorshe Ilish",
-        "dishImg": "https://pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-7.jpg",
-        "description": "Shorshe Ilish is a popular Bengali dish made with Hilsa fish in a mustard gravy. It is a delicacy in Bangladesh and some regions of India.",
-        "ingredients": [
-          "4 Hilsa fish steaks",
-          "2 tbsp yellow mustard seeds",
-          "2 tbsp black mustard seeds",
-          "2-3 green chilies",
-          "1/2 tsp turmeric powder",
-          "1/2 tsp red chili powder",
-          "1/2 tsp cumin powder",
-          "1/2 tsp coriander powder",
-          "4-5 tbsp mustard oil",
-          "Salt, to taste"
-        ],
-        "instructions": [
-          "Grind yellow and black mustard seeds and green chilies into a fine paste.",
-          "Mix the mustard paste with turmeric powder, red chili powder, cumin powder, coriander powder, and salt.",
-          "Coat the Hilsa fish steaks with the mustard paste and marinate for at least 30 minutes.",
-          "Heat mustard oil in a pan and fry the marinated fish steaks until golden brown on both sides.",
-          "Serve hot with steamed rice."
-        ]
-      },
+      }, 
       {
         "name": "Mutton Curry",
         "dishImg": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Mutton-Curry-500x500.jpg",
@@ -508,12 +443,6 @@
           "1 inch ginger, grated",
           "2-3 green chilies, slit",
           "2 tomatoes, chopped",
-          "1 tsp cumin seeds",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1 tsp garam masala",
-          "2-3 bay leaves",
           "3-4 tbsp oil or ghee",
           "Salt, to taste"
         ],
@@ -543,6 +472,31 @@
     "photoUrl": "https://observerbd.com/2022/06/11/observerbd.com_1654881676.jpg",
     "dishes": [
       {
+        "name": "Mutton Curry",
+        "dishImg": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Mutton-Curry-500x500.jpg",
+        "description": "Mutton Curry is a classic Indian and South Asian dish made with tender mutton meat cooked in a flavorful curry sauce.",
+        "ingredients": [
+          "1 lb. mutton, cut into pieces",
+          "2 onions, chopped",
+          "4-5 cloves garlic, minced",
+          "1 inch ginger, grated",
+          "2-3 green chilies, slit",
+          "2 tomatoes, chopped",
+          "3-4 tbsp oil or ghee",
+          "Salt, to taste"
+        ],
+        "instructions": [
+          "In a pressure cooker, heat oil or ghee and fry chopped onions until they turn golden brown.",
+          "Add ginger, garlic, and green chilies. Fry for 2-3 minutes.",
+          "Add mutton pieces and fry until browned on all sides.",
+          "Add cumin seeds, coriander powder, turmeric powder, red chili powder, garam masala, bay leaves, and salt. Fry for 2-3 minutes.",
+          "Add chopped tomatoes and cook until they turn soft and mushy.",
+          "Add 2 cups of water and pressure cook for 15-20 minutes or until the mutton is cooked through.",
+          "Remove from heat and let the pressure release naturally.",
+          "Serve hot with steamed rice or Indian bread."
+        ]
+      },
+      {
         "name": "Beef Tehari",
         "dishImg": "https://www.deshcatering.com/wp-content/uploads/2020/06/beef-tehari-desh-catering-service-provider-company-dhaka.jpeg",
         "description": "Beef Tehari is a flavorful rice dish popular in Bangladesh and some regions of India. It is made with aromatic spices, tender beef, and fragrant Basmati rice.",
@@ -554,12 +508,6 @@
           "1 inch ginger, grated",
           "2-3 green chilies, slit",
           "1 tsp cumin seeds",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1/2 tsp cinnamon powder",
-          "4-5 cardamom pods",
-          "2-3 bay leaves",
           "3 tbsp ghee or oil",
           "Salt, to taste"
         ],
@@ -586,12 +534,6 @@
           "4-5 cloves garlic, minced",
           "1 inch ginger, grated",
           "2-3 green chilies, chopped",
-          "1 tsp cumin powder",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1 tsp garam masala",
-          "2-3 bay leaves",
           "3-4 tbsp oil or ghee",
           "Salt, to taste"
         ],
@@ -616,7 +558,6 @@
           "2-3 green chilies",
           "1/2 tsp turmeric powder",
           "1/2 tsp red chili powder",
-          "1/2 tsp cumin powder",
           "1/2 tsp coriander powder",
           "4-5 tbsp mustard oil",
           "Salt, to taste"
@@ -628,38 +569,8 @@
           "Heat mustard oil in a pan and fry the marinated fish steaks until golden brown on both sides.",
           "Serve hot with steamed rice."
         ]
-      },
-      {
-        "name": "Mutton Curry",
-        "dishImg": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Mutton-Curry-500x500.jpg",
-        "description": "Mutton Curry is a classic Indian and South Asian dish made with tender mutton meat cooked in a flavorful curry sauce.",
-        "ingredients": [
-          "1 lb. mutton, cut into pieces",
-          "2 onions, chopped",
-          "4-5 cloves garlic, minced",
-          "1 inch ginger, grated",
-          "2-3 green chilies, slit",
-          "2 tomatoes, chopped",
-          "1 tsp cumin seeds",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1 tsp garam masala",
-          "2-3 bay leaves",
-          "3-4 tbsp oil or ghee",
-          "Salt, to taste"
-        ],
-        "instructions": [
-          "In a pressure cooker, heat oil or ghee and fry chopped onions until they turn golden brown.",
-          "Add ginger, garlic, and green chilies. Fry for 2-3 minutes.",
-          "Add mutton pieces and fry until browned on all sides.",
-          "Add cumin seeds, coriander powder, turmeric powder, red chili powder, garam masala, bay leaves, and salt. Fry for 2-3 minutes.",
-          "Add chopped tomatoes and cook until they turn soft and mushy.",
-          "Add 2 cups of water and pressure cook for 15-20 minutes or until the mutton is cooked through.",
-          "Remove from heat and let the pressure release naturally.",
-          "Serve hot with steamed rice or Indian bread."
-        ]
       }
+      
     ]
   },
   {
@@ -675,7 +586,7 @@
       "Best Chef for Traditional Cuisine"
     ],
     "photoUrl": "https://futurestartup.com/wp-content/uploads/2013/01/2012-01-31-09-20-09-4f27b2493323d-siddiqua-kabir.jpg",
-    "dishes":  [
+    "dishes": [
       {
         "name": "Beef Tehari",
         "dishImg": "https://www.deshcatering.com/wp-content/uploads/2020/06/beef-tehari-desh-catering-service-provider-company-dhaka.jpeg",
@@ -688,12 +599,6 @@
           "1 inch ginger, grated",
           "2-3 green chilies, slit",
           "1 tsp cumin seeds",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1/2 tsp cinnamon powder",
-          "4-5 cardamom pods",
-          "2-3 bay leaves",
           "3 tbsp ghee or oil",
           "Salt, to taste"
         ],
@@ -720,12 +625,6 @@
           "4-5 cloves garlic, minced",
           "1 inch ginger, grated",
           "2-3 green chilies, chopped",
-          "1 tsp cumin powder",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1 tsp garam masala",
-          "2-3 bay leaves",
           "3-4 tbsp oil or ghee",
           "Salt, to taste"
         ],
@@ -739,29 +638,6 @@
           "Remove from the oven and let it cool for 5-10 minutes before serving.",
           "Serve hot with naan or rice."
         ]
-      }, {
-        "name": "Shorshe Ilish",
-        "dishImg": "https://pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-7.jpg",
-        "description": "Shorshe Ilish is a popular Bengali dish made with Hilsa fish in a mustard gravy. It is a delicacy in Bangladesh and some regions of India.",
-        "ingredients": [
-          "4 Hilsa fish steaks",
-          "2 tbsp yellow mustard seeds",
-          "2 tbsp black mustard seeds",
-          "2-3 green chilies",
-          "1/2 tsp turmeric powder",
-          "1/2 tsp red chili powder",
-          "1/2 tsp cumin powder",
-          "1/2 tsp coriander powder",
-          "4-5 tbsp mustard oil",
-          "Salt, to taste"
-        ],
-        "instructions": [
-          "Grind yellow and black mustard seeds and green chilies into a fine paste.",
-          "Mix the mustard paste with turmeric powder, red chili powder, cumin powder, coriander powder, and salt.",
-          "Coat the Hilsa fish steaks with the mustard paste and marinate for at least 30 minutes.",
-          "Heat mustard oil in a pan and fry the marinated fish steaks until golden brown on both sides.",
-          "Serve hot with steamed rice."
-        ]
       },
       {
         "name": "Mutton Curry",
@@ -774,12 +650,6 @@
           "1 inch ginger, grated",
           "2-3 green chilies, slit",
           "2 tomatoes, chopped",
-          "1 tsp cumin seeds",
-          "1 tsp coriander powder",
-          "1 tsp turmeric powder",
-          "1 tsp red chili powder",
-          "1 tsp garam masala",
-          "2-3 bay leaves",
           "3-4 tbsp oil or ghee",
           "Salt, to taste"
         ],
@@ -793,7 +663,31 @@
           "Remove from heat and let the pressure release naturally.",
           "Serve hot with steamed rice or Indian bread."
         ]
+      }, 
+      {
+        "name": "Shorshe Ilish",
+        "dishImg": "https://pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-7.jpg",
+        "description": "Shorshe Ilish is a popular Bengali dish made with Hilsa fish in a mustard gravy. It is a delicacy in Bangladesh and some regions of India.",
+        "ingredients": [
+          "4 Hilsa fish steaks",
+          "2 tbsp yellow mustard seeds",
+          "2 tbsp black mustard seeds",
+          "2-3 green chilies",
+          "1/2 tsp turmeric powder",
+          "1/2 tsp red chili powder",
+          "1/2 tsp coriander powder",
+          "4-5 tbsp mustard oil",
+          "Salt, to taste"
+        ],
+        "instructions": [
+          "Grind yellow and black mustard seeds and green chilies into a fine paste.",
+          "Mix the mustard paste with turmeric powder, red chili powder, cumin powder, coriander powder, and salt.",
+          "Coat the Hilsa fish steaks with the mustard paste and marinate for at least 30 minutes.",
+          "Heat mustard oil in a pan and fry the marinated fish steaks until golden brown on both sides.",
+          "Serve hot with steamed rice."
+        ]
       }
+      
     ]
   }
 ]
