@@ -2,11 +2,15 @@
   {
     "id": 1,
     "name": "Zaheer Khan",
+    "badge": "Exclusive",
+    "recipe": "18",
+    "Likes": "96%",
     "specialty": "Bangladeshi cuisine",
     "awards": [
       "Best Chef in Bangladesh"
     ],
-    "photoUrl": "https://example.com/zaheer-khan.jpg",
+    "Experience": "7",
+    "photoUrl": "https://media.licdn.com/dms/image/D5603AQH3egzDmOPfdQ/profile-displayphoto-shrink_800_800/0/1667059417649?e=2147483647&v=beta&t=BaTZlzNTv6UAgbeGIkB97hYHJT1FBxNvMnlYADN9Yq8",
     "dishes": [
       "Beef Tehari",
       "Haleem",
@@ -23,11 +27,15 @@
   {
     "id": 2,
     "name": "Shawkat Osman",
+    "Likes": "93%",
+    "Experience": "14",
+    "recipe": "35",
+    "badge": "Exclusive",
     "specialty": "French cuisine",
     "awards": [
       "Best Chef in Bangladesh"
     ],
-    "photoUrl": "https://example.com/shawkat-osman.jpg",
+    "photoUrl": "https://1.bp.blogspot.com/-aIsd0ndB07E/U0tS5zk17kI/AAAAAAAAVkw/uHcDx23F5RI/s1600/021.JPG",
     "dishes": [
       "Beef Bhuna",
       "Mutton Kala Bhuna",
@@ -38,11 +46,15 @@
   {
     "id": 3,
     "name": "Tony Khan",
+    "Likes": "99%",
+    "recipe": "25",
+    "Experience": "15",
+    "badge": "Exclusive",
     "specialty": "Italian cuisine",
     "awards": [
       "Best Chef in Bangladesh"
     ],
-    "photoUrl": "https://example.com/tony-khan.jpg",
+    "photoUrl": "https://chefclubdhakahome.files.wordpress.com/2019/05/tony7755109801519956930.jpg?w=580",
     "dishes": [
       "Beef Tehari",
       "Haleem",
@@ -54,11 +66,14 @@
   {
     "id": 4,
     "name": "Shawkat Ali",
+    "Likes": "95%",
+    "recipe": "37",
+    "Experience": "11",
     "specialty": "Thai cuisine",
     "awards": [
       "Best Chef in Bangladesh"
     ],
-    "photoUrl": "https://example.com/shawkat-ali.jpg",
+    "photoUrl": "https://media.licdn.com/dms/image/C5103AQH-Q47n0bmoFQ/profile-displayphoto-shrink_800_800/0/1577669296818?e=2147483647&v=beta&t=Guk6iVGjLcy2PKYV1TSCK-UcWAn2FgPE7a8b588TkcA",
     "dishes": [
       "Prawn Malai Curry",
       "Daal",
@@ -75,11 +90,14 @@
   {
     "id": 5,
     "name": "Mamun Chowdhury",
+    "Likes": "92%",
+    "recipe": "19",
+    "Experience": "5",
     "specialty": "Japanese cuisine",
     "awards": [
       "Best Chef in Bangladesh"
     ],
-    "photoUrl": "https://example.com/mamun-chowdhury.jpg",
+    "photoUrl": "https://observerbd.com/2022/06/11/observerbd.com_1654881676.jpg",
     "dishes": [
       "Bhuna Khichuri",
       "Dhaka-style Chicken Roast",
@@ -90,13 +108,17 @@
   },
   {
     "id": 6,
-    "name": "Sabina Begum",
+    "name": "Siddika Kabir",
+    "Likes": "97%",
+    "recipe": "37",
+    "Experience": "14",
+    "badge": "Exclusive",
     "specialty": "Bangladeshi cuisine",
     "awards": [
       "Best Female Chef in Bangladesh",
       "Best Chef for Traditional Cuisine"
     ],
-    "photoUrl": "https://example.com/sabina-begum.jpg",
+    "photoUrl": "https://futurestartup.com/wp-content/uploads/2013/01/2012-01-31-09-20-09-4f27b2493323d-siddiqua-kabir.jpg",
     "dishes": [
       "Bhapa Pitha",
       "Patishapta",
