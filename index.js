@@ -15,6 +15,13 @@ app.get("/chefs", (req, res) => {
   res.send(chefsData);
 });
 
+app.get("/chefs/:id", (req, res) => {
+  const id = req.params.id;
+  console.log(id);
+  const selectedChef = chefsData.find((cf) => cf.id === id);
+  res.send(selectedChef);
+});
+
 app.listen(port, () => {
   console.log(`Chefs knife is running on port: ${port}`);
 });
