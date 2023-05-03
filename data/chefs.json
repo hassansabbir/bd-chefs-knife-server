@@ -6,14 +6,16 @@
     "recipe": "18",
     "Likes": "96%",
     "specialty": "Bangladeshi cuisine",
+    "bio" : "Zaheer Khan is a self-taught Bangladeshi chef with over 20 years of culinary experience. He's known for his innovative recipes, use of local ingredients, and social media presence. Khan has worked in various restaurants and hotels worldwide, won culinary awards, and judged cooking competitions. He's also involved in social and charitable causes, supporting NGOs and philanthropic endeavors.",
     "awards": [
       "Best Chef in Bangladesh"
     ],
-    "Experience": "7",
+    "Experience": "22",
     "photoUrl": "https://media.licdn.com/dms/image/D5603AQH3egzDmOPfdQ/profile-displayphoto-shrink_800_800/0/1667059417649?e=2147483647&v=beta&t=BaTZlzNTv6UAgbeGIkB97hYHJT1FBxNvMnlYADN9Yq8",
     "dishes": [
       {
         "name": "Beef Tehari",
+        "rating": "4.5",
         "dishImg": "https://www.deshcatering.com/wp-content/uploads/2020/06/beef-tehari-desh-catering-service-provider-company-dhaka.jpeg",
         "description": "Beef Tehari is a flavorful rice dish popular in Bangladesh and some regions of India. It is made with aromatic spices, tender beef, and fragrant Basmati rice.",
         "ingredients": [
@@ -41,6 +43,7 @@
       },
       {
         "name": "Dhakaiya Chicken Roast",
+        "rating": "4.5",
         "dishImg": "https://giftall.s3.amazonaws.com/uploads/images/product/product_1583638430.jpg",
         "description": "Dhakaiya Chicken Roast is a classic Bangladeshi dish made with marinated chicken roasted in an oven or grill.",
         "ingredients": [
@@ -65,6 +68,7 @@
         ]
       }, {
         "name": "Shorshe Ilish",
+        "rating": "4.5",
         "dishImg": "https://pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-7.jpg",
         "description": "Shorshe Ilish is a popular Bengali dish made with Hilsa fish in a mustard gravy. It is a delicacy in Bangladesh and some regions of India.",
         "ingredients": [
@@ -88,6 +92,7 @@
       },
       {
         "name": "Mutton Curry",
+        "rating": "4.5",
         "dishImg": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Mutton-Curry-500x500.jpg",
         "description": "Mutton Curry is a classic Indian and South Asian dish made with tender mutton meat cooked in a flavorful curry sauce.",
         "ingredients": [
@@ -117,7 +122,8 @@
     "id": "2",
     "name": "Shawkat Osman",
     "Likes": "93%",
-    "Experience": "14",
+    "Experience": "23",
+    "bio": "Osman Shawkat is a prominent Bangladeshi chef known for his fusion of traditional Bangladeshi flavors with modern techniques. He has won several culinary awards, worked in prestigious hotels and restaurants, and supports various charitable causes. Shawkat promotes locally sourced ingredients and traditional Bangladeshi cuisine.",
     "recipe": "35",
     "badge": "Exclusive",
     "specialty": "French cuisine",
@@ -128,6 +134,7 @@
     "dishes": [
       {
         "name": "Mutton Curry",
+        "rating": "4.5",
         "dishImg": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Mutton-Curry-500x500.jpg",
         "description": "Mutton Curry is a classic Indian and South Asian dish made with tender mutton meat cooked in a flavorful curry sauce.",
         "ingredients": [
@@ -154,6 +161,7 @@
       
       {
         "name": "Dhakaiya Chicken Roast",
+        "rating": "4.5",
         "dishImg": "https://giftall.s3.amazonaws.com/uploads/images/product/product_1583638430.jpg",
         "description": "Dhakaiya Chicken Roast is a classic Bangladeshi dish made with marinated chicken roasted in an oven or grill.",
         "ingredients": [
@@ -179,6 +187,7 @@
       }, 
       {
         "name": "Beef Tehari",
+        "rating": "4.5",
         "dishImg": "https://www.deshcatering.com/wp-content/uploads/2020/06/beef-tehari-desh-catering-service-provider-company-dhaka.jpeg",
         "description": "Beef Tehari is a flavorful rice dish popular in Bangladesh and some regions of India. It is made with aromatic spices, tender beef, and fragrant Basmati rice.",
         "ingredients": [
@@ -206,6 +215,7 @@
       },
       {
         "name": "Shorshe Ilish",
+        "rating": "4.5",
         "dishImg": "https://pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-7.jpg",
         "description": "Shorshe Ilish is a popular Bengali dish made with Hilsa fish in a mustard gravy. It is a delicacy in Bangladesh and some regions of India.",
         "ingredients": [
@@ -233,6 +243,7 @@
   {
     "id": "3",
     "name": "Tony Khan",
+    "bio": "Tony Karim is a renowned Bangladeshi chef who has achieved international recognition for his culinary skills. He is known for his contemporary take on traditional Bangladeshi cuisine and has worked in several renowned restaurants in London. He has received numerous accolades and awards for his cuisine, including being named Chef of the Year by The British Bangladeshi Who's Who. He has also been featured in various media outlets for his work, including The Guardian and BBC Good Food.",
     "Likes": "99%",
     "recipe": "25",
     "Experience": "15",
@@ -245,6 +256,7 @@
     "dishes": [
       {
         "name": "Dhakaiya Chicken Roast",
+        "rating": "4.5",
         "dishImg": "https://giftall.s3.amazonaws.com/uploads/images/product/product_1583638430.jpg",
         "description": "Dhakaiya Chicken Roast is a classic Bangladeshi dish made with marinated chicken roasted in an oven or grill.",
         "ingredients": [
@@ -270,6 +282,7 @@
       },
       {
         "name": "Beef Tehari",
+        "rating": "4.5",
         "dishImg": "https://www.deshcatering.com/wp-content/uploads/2020/06/beef-tehari-desh-catering-service-provider-company-dhaka.jpeg",
         "description": "Beef Tehari is a flavorful rice dish popular in Bangladesh and some regions of India. It is made with aromatic spices, tender beef, and fragrant Basmati rice.",
         "ingredients": [
@@ -297,6 +310,7 @@
       },
        {
         "name": "Shorshe Ilish",
+        "rating": "4.5",
         "dishImg": "https://pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-7.jpg",
         "description": "Shorshe Ilish is a popular Bengali dish made with Hilsa fish in a mustard gravy. It is a delicacy in Bangladesh and some regions of India.",
         "ingredients": [
@@ -320,6 +334,7 @@
       },
       {
         "name": "Mutton Curry",
+        "rating": "4.5",
         "dishImg": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Mutton-Curry-500x500.jpg",
         "description": "Mutton Curry is a classic Indian and South Asian dish made with tender mutton meat cooked in a flavorful curry sauce.",
         "ingredients": [
@@ -348,6 +363,7 @@
   {
     "id": "4",
     "name": "Shawkat Ali",
+    "bio":"Chef Shawkat Ali is a renowned Bangladeshi chef known for his innovative approach to cooking that blends traditional Bangladeshi cuisine with modern techniques and ingredients. He has received numerous awards and accolades, including being named Chef of the Year at the Bangladesh Chef Association Awards. Chef Ali is dedicated to promoting Bangladeshi cuisine on a global level and is considered a pioneer in the field of Bangladeshi culinary arts.",
     "Likes": "95%",
     "recipe": "37",
     "Experience": "11",
@@ -359,6 +375,7 @@
     "dishes":  [
       {
         "name": "Shorshe Ilish",
+        "rating": "4.5",
         "dishImg": "https://pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-7.jpg",
         "description": "Shorshe Ilish is a popular Bengali dish made with Hilsa fish in a mustard gravy. It is a delicacy in Bangladesh and some regions of India.",
         "ingredients": [
@@ -382,6 +399,7 @@
       },
       {
         "name": "Beef Tehari",
+        "rating": "4.5",
         "dishImg": "https://www.deshcatering.com/wp-content/uploads/2020/06/beef-tehari-desh-catering-service-provider-company-dhaka.jpeg",
         "description": "Beef Tehari is a flavorful rice dish popular in Bangladesh and some regions of India. It is made with aromatic spices, tender beef, and fragrant Basmati rice.",
         "ingredients": [
@@ -409,6 +427,7 @@
       },
       {
         "name": "Dhakaiya Chicken Roast",
+        "rating": "4.5",
         "dishImg": "https://giftall.s3.amazonaws.com/uploads/images/product/product_1583638430.jpg",
         "description": "Dhakaiya Chicken Roast is a classic Bangladeshi dish made with marinated chicken roasted in an oven or grill.",
         "ingredients": [
@@ -434,6 +453,7 @@
       }, 
       {
         "name": "Mutton Curry",
+        "rating": "4.5",
         "dishImg": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Mutton-Curry-500x500.jpg",
         "description": "Mutton Curry is a classic Indian and South Asian dish made with tender mutton meat cooked in a flavorful curry sauce.",
         "ingredients": [
@@ -462,9 +482,10 @@
   {
     "id": "5",
     "name": "Mamun Chowdhury",
+    "bio": "Chef Mamun Chowdhury is a renowned Bangladeshi chef with over 20 years of experience in the culinary industry. He is known for creating unique and flavorful dishes that showcase the rich culinary traditions of Bangladesh. Chef Chowdhury has received several awards and accolades, including being named Best Chef in Bangladesh at the WACS competition. He is passionate about promoting Bangladeshi cuisine globally and has worked in several high-end restaurants and hotels both in Bangladesh and internationally.",
     "Likes": "92%",
     "recipe": "19",
-    "Experience": "5",
+    "Experience": "21",
     "specialty": "Japanese cuisine",
     "awards": [
       "Best Chef in Bangladesh"
@@ -473,6 +494,7 @@
     "dishes": [
       {
         "name": "Mutton Curry",
+        "rating": "4.5",
         "dishImg": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Mutton-Curry-500x500.jpg",
         "description": "Mutton Curry is a classic Indian and South Asian dish made with tender mutton meat cooked in a flavorful curry sauce.",
         "ingredients": [
@@ -498,6 +520,7 @@
       },
       {
         "name": "Beef Tehari",
+        "rating": "4.5",
         "dishImg": "https://www.deshcatering.com/wp-content/uploads/2020/06/beef-tehari-desh-catering-service-provider-company-dhaka.jpeg",
         "description": "Beef Tehari is a flavorful rice dish popular in Bangladesh and some regions of India. It is made with aromatic spices, tender beef, and fragrant Basmati rice.",
         "ingredients": [
@@ -525,6 +548,7 @@
       },
       {
         "name": "Dhakaiya Chicken Roast",
+        "rating": "4.5",
         "dishImg": "https://giftall.s3.amazonaws.com/uploads/images/product/product_1583638430.jpg",
         "description": "Dhakaiya Chicken Roast is a classic Bangladeshi dish made with marinated chicken roasted in an oven or grill.",
         "ingredients": [
@@ -549,6 +573,7 @@
         ]
       }, {
         "name": "Shorshe Ilish",
+        "rating": "4.5",
         "dishImg": "https://pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-7.jpg",
         "description": "Shorshe Ilish is a popular Bengali dish made with Hilsa fish in a mustard gravy. It is a delicacy in Bangladesh and some regions of India.",
         "ingredients": [
@@ -576,9 +601,10 @@
   {
     "id": "6",
     "name": "Siddika Kabir",
-    "Likes": "97%",
-    "recipe": "37",
-    "Experience": "14",
+    "bio": "Chef Siddika Kabir was a legendary Bangladeshi chef, nutritionist, and cooking instructor, who passed away in 2012 at the age of 86. She was widely regarded as an icon in the culinary world, and her contributions to the promotion and preservation of Bangladeshi cuisine are immeasurable. Chef Kabir authored several popular cookbooks, including the renowned Ranna Khaddo Pushti, which is considered a classic in Bangladeshi cuisine. She also hosted a popular cooking show on BTV, which aired for over 30 years, and educated millions of viewers on traditional Bangladeshi cooking techniques and nutrition. Chef Kabir received numerous awards and accolades throughout her career, including the Ekushey Padak in 1997, one of the highest civilian honors in Bangladesh. She remains a beloved figure in Bangladeshi culinary culture and is remembered for her dedication to preserving and promoting the cuisine for future generations.",
+    "Likes": "99%",
+    "recipe": "44",
+    "Experience": "55",
     "badge": "Exclusive",
     "specialty": "Bangladeshi cuisine",
     "awards": [
@@ -589,6 +615,7 @@
     "dishes": [
       {
         "name": "Beef Tehari",
+        "rating": "4.5",
         "dishImg": "https://www.deshcatering.com/wp-content/uploads/2020/06/beef-tehari-desh-catering-service-provider-company-dhaka.jpeg",
         "description": "Beef Tehari is a flavorful rice dish popular in Bangladesh and some regions of India. It is made with aromatic spices, tender beef, and fragrant Basmati rice.",
         "ingredients": [
@@ -616,6 +643,7 @@
       },
       {
         "name": "Dhakaiya Chicken Roast",
+        "rating": "4.5",
         "dishImg": "https://giftall.s3.amazonaws.com/uploads/images/product/product_1583638430.jpg",
         "description": "Dhakaiya Chicken Roast is a classic Bangladeshi dish made with marinated chicken roasted in an oven or grill.",
         "ingredients": [
@@ -641,6 +669,7 @@
       },
       {
         "name": "Mutton Curry",
+        "rating": "4.5",
         "dishImg": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Mutton-Curry-500x500.jpg",
         "description": "Mutton Curry is a classic Indian and South Asian dish made with tender mutton meat cooked in a flavorful curry sauce.",
         "ingredients": [
@@ -666,6 +695,7 @@
       }, 
       {
         "name": "Shorshe Ilish",
+        "rating": "4.5",
         "dishImg": "https://pikturenama.com/wp-content/uploads/2020/10/Low-res-Sosrshe-Ilish-7.jpg",
         "description": "Shorshe Ilish is a popular Bengali dish made with Hilsa fish in a mustard gravy. It is a delicacy in Bangladesh and some regions of India.",
         "ingredients": [
